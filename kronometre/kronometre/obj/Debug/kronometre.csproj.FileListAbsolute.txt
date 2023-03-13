@@ -1,0 +1,11 @@
+C:\Users\ibrah\OneDrive\Masaüstü\VS Projects\Programlama 2.Sınıf\8.Hafta\kronometre\kronometre\bin\Debug\kronometre.exe.config
+C:\Users\ibrah\OneDrive\Masaüstü\VS Projects\Programlama 2.Sınıf\8.Hafta\kronometre\kronometre\bin\Debug\kronometre.exe
+C:\Users\ibrah\OneDrive\Masaüstü\VS Projects\Programlama 2.Sınıf\8.Hafta\kronometre\kronometre\bin\Debug\kronometre.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\VS Projects\Programlama 2.Sınıf\8.Hafta\kronometre\kronometre\obj\Debug\kronometre.csproj.AssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\VS Projects\Programlama 2.Sınıf\8.Hafta\kronometre\kronometre\obj\Debug\kronometre.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibrah\OneDrive\Masaüstü\VS Projects\Programlama 2.Sınıf\8.Hafta\kronometre\kronometre\obj\Debug\kronometre.Form1.resources
+C:\Users\ibrah\OneDrive\Masaüstü\VS Projects\Programlama 2.Sınıf\8.Hafta\kronometre\kronometre\obj\Debug\kronometre.Properties.Resources.resources
+C:\Users\ibrah\OneDrive\Masaüstü\VS Projects\Programlama 2.Sınıf\8.Hafta\kronometre\kronometre\obj\Debug\kronometre.csproj.GenerateResource.cache
+C:\Users\ibrah\OneDrive\Masaüstü\VS Projects\Programlama 2.Sınıf\8.Hafta\kronometre\kronometre\obj\Debug\kronometre.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\VS Projects\Programlama 2.Sınıf\8.Hafta\kronometre\kronometre\obj\Debug\kronometre.exe
+C:\Users\ibrah\OneDrive\Masaüstü\VS Projects\Programlama 2.Sınıf\8.Hafta\kronometre\kronometre\obj\Debug\kronometre.pdb
